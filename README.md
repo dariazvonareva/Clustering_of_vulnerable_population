@@ -1,17 +1,17 @@
 #  Дипломный проект. Бриф «Лаборатории исследований гражданского общества». Определение уязвимых групп населения
 
 ## Оглавление
-[1. Описание проекта](https://github.com/dariazvonareva/dariazvonareva-Clustering_of_population.git/main/README.md#Описание-проекта) 
+[1. Описание проекта](https://github.com/dariazvonareva/Clustering_of_vulnerable_population/blob/main/README.md#Описание-проекта) 
 
-[2. Какой кейс решаем?](https://github.com/dariazvonareva/dariazvonareva-Clustering_of_population.git/main/README.md#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/dariazvonareva/Clustering_of_vulnerable_population/blob/main/README.md#Какой-кейс-решаем?)
 
-[3. Краткая информация о данных](https://github.com/dariazvonareva/dariazvonareva-Clustering_of_population.git/main/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/dariazvonareva/Clustering_of_vulnerable_population/blob/main/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/dariazvonareva/dariazvonareva-Clustering_of_population.git/main/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/dariazvonareva/Clustering_of_vulnerable_population/blob/main/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/dariazvonareva/dariazvonareva-Clustering_of_population.git/main/population.ipynb)
+[5. Результат](https://github.com/dariazvonareva/Clustering_of_vulnerable_population/blob/main/README.md#Результат)
 
-[6. Выводы](https://github.com/dariazvonareva/dariazvonareva-Clustering_of_population.git/main/README.md#Выводы)
+[6. Выводы](https://github.com/dariazvonareva/Clustering_of_vulnerable_population/blob/main/README.md#Выводы)
 
 ### Описание проекта
 
@@ -34,7 +34,7 @@
      - производством и потреблением в регионе;
      - какие ещё зависимости можно наблюдать относительно социально незащищённых слоёв населения.
 
-:arrow_up:[к оглавлению](https://github.com/dariazvonareva/dariazvonareva-Clustering_of_population.git/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Clustering_of_vulnerable_population/blob/main/README.md#Оглавление)
 
 
 ### Краткая информация о данных
@@ -64,7 +64,7 @@
 
 Источник датасета: (https://www.fedstat.ru/, https://tochno.st/problems, https://rosstat.gov.ru/folder/10705)
 
-:arrow_up:[к оглавлению](https://github.com/dariazvonareva/dariazvonareva-Clustering_of_population.git/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Clustering_of_vulnerable_population/blob/main/README.md#Оглавление)
 
 ### Этапы работы над проектом
 1. Знакомство со структурой данных
@@ -116,14 +116,14 @@
 
 8. Общие выводы
 
-:arrow_up:[к оглавлению](https://github.com/dariazvonareva/dariazvonareva-Clustering_of_population.git/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Clustering_of_vulnerable_population/blob/main/README.md#Оглавление)
 
 
 ### Результаты:
-[Ноутбук с выполненными заданиями и выводами](https://github.com/dariazvonareva/dariazvonareva-Clustering_of_population.git/main/population.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/dariazvonareva/Clustering_of_vulnerable_population/blob/main/population.ipynb)
 
 
-:arrow_up:[к оглавлению](https://github.com/dariazvonareva/dariazvonareva-Clustering_of_population.git/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Clustering_of_vulnerable_population/blob/main/README.md#Оглавление)
 
 ### Выводы
 
